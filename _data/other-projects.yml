@@ -3,9 +3,10 @@
   code: https://github.com/Arunm619/coding
   description: My Repo of solutions to various programming problems in sites like Leetcode and hackerrank.
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: CSS
+    - thing: Algorithms
+    - thing: Data Structures
+    - thing: C++
+    - thing: Java
 
 - name: Kratos - Symposium Management App
   url: https://github.com/Arunm619/Kratos2K18

@@ -4,15 +4,15 @@
   "description": "Software Engineer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arunm619/arunm619.github.io"
+    "url": "https://github.com/arun-sudharsan/arunm619.github.io"
   },
-  "homepage": "https://github.com/arunm619/arunm619.github.io",
+  "homepage": "https://github.com/arun-sudharsan/arunm619.github.io",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",
     "build": "gulp build"
   },
-  "author": "Brittany Chiang",
+  "author": "Arun sudharsan",
   "license": "ISC",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
